@@ -1,0 +1,3 @@
+[submodule "lib/shopping-list-comms"]
+	path = lib/shopping-list-comms
+	url = https://github.com/cuevae/shopping-list-comms.git
