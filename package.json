@@ -4,7 +4,7 @@
     "description": "initial socket server implementation",
     "dependencies": {
         "@types/express": "^4.17.6",
-        "axios": "^0.19.2",
+        "axios": ">=0.21.1",
         "express": "^4.17.1",
         "node-fetch": "^2.6.0",
         "socket.io": "^2.3.0",
